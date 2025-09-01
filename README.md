@@ -1,6 +1,6 @@
 # Hi, I'm Arvin 👋🏻
 
-I'm documenting my journey through a [blog](https://blog.arvinagarcia.com/) and platforms like [Twitter](https://x.com/arvingarciabtw) and [Bluesky](https://bsky.app/profile/arvingarciabtw.bsky.social). The idea is to share my progress, the ups and downs, and everything I learn along the way.
+I'm documenting my journey through a [blog](https://blog.arvingarcia.com/) and platforms like [Twitter](https://x.com/arvingarciabtw) and [Bluesky](https://bsky.app/profile/arvingarciabtw.bsky.social). The idea is to share my progress, the ups and downs, and everything I learn along the way.
 
 ---
 ## 💻 Technologies I Know
