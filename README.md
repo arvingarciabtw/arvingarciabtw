@@ -10,3 +10,4 @@ I'm documenting my developer journey through a [blog](https://blog.arvingarcia.c
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 [![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff)](#)
+[![Webpack](https://img.shields.io/badge/Webpack-24C8D8?logo=webpack&logoColor=fff)](#)
