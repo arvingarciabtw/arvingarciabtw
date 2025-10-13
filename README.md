@@ -9,6 +9,7 @@ I'm documenting my developer journey through a [blog](https://blog.arvingarcia.c
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-[![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff)](#)
 [![Webpack](https://img.shields.io/badge/Webpack-24C8D8?logo=webpack&logoColor=fff)](#)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)
+[![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff)](#)
+[![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=fff)](#)
