@@ -1,11 +1,9 @@
 # Hi, I'm Arvin 👋🏻
 
-I'm documenting my developer journey through a [blog](https://blog.arvingarcia.com/) and platforms like [Twitter](https://x.com/arvingarciabtw) and [Bluesky](https://bsky.app/profile/arvingarciabtw.bsky.social).
+I'm documenting what I learn (*almost*) every week through a [blog](https://blog.arvingarcia.com/). Come check out my learning journey!
 
 ---
 ## 💻 Tech Stack
-![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
@@ -14,9 +12,5 @@ I'm documenting my developer journey through a [blog](https://blog.arvingarcia.c
 [![Express](https://img.shields.io/badge/Express-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql&logoColor=white)](#)
 [![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)](#)
-[![Passport.js](https://img.shields.io/badge/Passport.js-C5F74F?logo=passport&logoColor=000)](#)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-[![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)
 [![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff)](#)
-[![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=fff)](#)
-[![MDX](https://img.shields.io/badge/MDX-FFC517?logo=mdx&logoColor=000)](#)
