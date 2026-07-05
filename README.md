@@ -1,3 +1,5 @@
-[blog](https://blog.arvingarcia.com/)
+[ditto](https://github.com/arvingarciabtw/ditto) &nbsp;&nbsp; / &nbsp;&nbsp; [blog](https://blog.arvingarcia.com/)
 
-learning go. i like svelte.  tui lover.
+go. svelte. linux. tuis.
+
+the philosophy of the [grug](https://grugbrain.dev/).
