@@ -1,5 +1,3 @@
-[ditto](https://github.com/arvingarciabtw/ditto) &nbsp;&nbsp; / &nbsp;&nbsp; [blog](https://blog.arvingarcia.com/)
+working on [ditto](https://github.com/arvingarciabtw/ditto) and [bettercalapan](https://github.com/arvingarciabtw/bettercalapan).
 
-go. svelte. linux. tuis.
-
-the philosophy of the [grug](https://grugbrain.dev/).
+my other details at [arvingarcia.com](https://arvingarcia.com).
